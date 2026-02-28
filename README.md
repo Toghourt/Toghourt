@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Toghourt
-- 👀 I’m interested in iOS
-- 🌱 I’m currently learning iOS
-- 📫 togurtt@foxmail.com
+- 👋 Hi, I’m @Theo
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
+- 📫 togurtt@outlook.com
 
 <!---
 Toghourt/Toghourt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
